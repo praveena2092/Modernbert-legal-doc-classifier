@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+data/*.csv
+*.npy
+*.pt
+*.pth
+*.safetensors
+*.bin
+checkpoints/
+submission.csv
+.env
